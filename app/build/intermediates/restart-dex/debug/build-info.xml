@@ -6,26 +6,23 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1507811497596"
+    timestamp="1507826326220"
     token="751404206019571961"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1389" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="201" />
+        duration="0" />
     <task
         name="verifier"
-        duration="25" />
+        duration="0" />
 
-    <artifact
-        location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
     <artifact
         location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
@@ -45,6 +42,9 @@
         location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
+        location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
         location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
@@ -62,11 +62,8 @@
 
     <build
         build-mode="FULL"
-        timestamp="1507811497596"
+        timestamp="1507826326220"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
         <artifact
             location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
@@ -84,6 +81,9 @@
             type="SPLIT" />
         <artifact
             location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\ResepMasakan\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
