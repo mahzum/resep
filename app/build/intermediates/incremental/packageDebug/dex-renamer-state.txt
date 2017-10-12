@@ -1,0 +1,7 @@
+#Thu Oct 12 19:27:21 ICT 2017
+base.0=E\:\\ResepMasakan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db54eab3a5c4c49e1a292d358706625994f5b9a6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\ResepMasakan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e95d77813262113d23a5190ae0ee6aaf6e562fa6\\classes.dex
+base.1=E\:\\ResepMasakan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e95d77813262113d23a5190ae0ee6aaf6e562fa6
+file.0=E\:\\ResepMasakan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_db54eab3a5c4c49e1a292d358706625994f5b9a6\\classes.dex

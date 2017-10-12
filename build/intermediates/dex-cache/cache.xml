@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d2c6ef167f6d785893b4d0da7b53c9d2602ea66a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\8e25e0758e7a1acbbfeb039f8c5eccf2047a62e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66f5708a8e86e5451cba5f715374a754f37996ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\34342752a7b60de3e8e8b6624b2cc8c37950451c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d79aae037c40ed424412c0e1097db7a1abeb43d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\4f00fe5a94e1f5c029e988440b2411157431d6b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df9300643327354a948318108b6139f50e3e6e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\f2068c947419072f7cfd62063cbcb01b6f54a994\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd78644bff73d27a5c2238e56949fcc890475151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\e46467e787fcefdde194f20ce1f181eb49e56c42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55e813cef78d507066eb312618a138d129061477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\fa931a6eb20626dbed558a1988371e7651727684\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0afc4e11b7f90968d7795750f066d775a923a20c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\1c880f1349cd6839f54e2f9ae94f7645caefcf0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc9102825184e5affc035e3a006b3a4be678dcc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\028a613be5f8b20b23a0248afcfe3e60b48eebc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_525e0ee99d0edfb239145fc651b64995aa5b3eb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ResepMasakan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8c24092586d540139de26a0e1caca0b87698abe">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e95d77813262113d23a5190ae0ee6aaf6e562fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ResepMasakan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_db54eab3a5c4c49e1a292d358706625994f5b9a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\ebd62dd89afbfa3411bac1fe44f7311837d0bcbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb85bb12b440844c249176c225066f8985096b66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_0f28bd97d6083e7c79a152489944d92f00ec00d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\4a7cf1bbacae39132cec868ff2068df3a18e1eec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_590460be8c195568e35097df406bc90468cf58bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bro\.android\build-cache\45b4fb492926e478ab1a204d5544b8a1164fb48f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\ResepMasakan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e27f9acf8d01bbccbb6c641daca7e5a9cc3210c\classes.dex" />
+    </item>
+
+</items>
