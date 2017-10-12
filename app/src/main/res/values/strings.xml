@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ResepMasakan</string>
+    <string-array name="menu">
+        <item>Opor</item>
+        <item>Rendang</item>
+        <item>Gudeg</item>
+        <item>Gule</item>
+        <item>Sate</item>
+        <item>Nasi goreng</item>
+        <item>Pepes</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Ayam rebus yang diberi bumbu kental dari santan yang ditambah berbagai rempah rempah</item>
+        <item>masakan daging bercita rasa pedas yang menggunakan campuran dari berbagai bumbu dan rempah-rempah. Masakan ini dihasilkan dari proses memasak yang dipanaskan berulang-ulang dengan santan kelapa.</item>
+        <item>makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan.</item>
+        <item> masakan berbahan baku daging ayam, aneka ikan, kambing, sapi, jeroan, atau sayuran seperti nangka muda dan daun singkong, yang diolah dalam kuah bumbu rempah yang bercitarasa gurih. Ciri khas gulai adalah bumbunya yang kaya rempah antara lain kunyit, ketumbar, lada, lengkuas, jahe, cabai merah, bawang merah, bawang putih, adas, pala, serai, kayu manis dan jintan yang dihaluskan, dicampur, kemudian dimasak dalam santan</item>
+        <item>masakan berbahan baku daging ayam, aneka ikan, kambing, sapi, jeroan, atau sayuran seperti nangka muda dan daun singkong, yang diolah dalam kuah bumbu rempah yang bercitarasa gurih. Ciri khas gulai adalah bumbunya yang kaya rempah antara lain kunyit, ketumbar, lada, lengkuas, jahe, cabai merah, bawang merah, bawang putih, adas, pala, serai, kayu manis dan jintan yang dihaluskan, dicampur, kemudian dimasak dalam santan</item>
+        <item>sebuah hidangan nasi yang telah digoreng dalam sebuah wajan atau penggorengan dan biasanya dicampur dengan bahan-bahan lainnya seperti telur, sayur-sayuran, makanan laut, atau daging. Makanan tersebut seringkali disantap sendiri atau disertai dengan hidangan lainnya. Nasi goreng adalah komponen populer dari masakan Asia Timur, Tenggara dan Selatan pada wilayah tertentu. Sebagai hidangan buatan rumah, nasi goreng biasanya dibuat dengan bahan-bahan yang tersisa dari hidangan lainnya, yang berujung pada ragam yang tak terbatas. Menjadi penopang ekonomi, hal yang sama juga terjadi pada mi goreng atau pyttipanna.</item>
+        <item></item>
+    </string-array>
+</resources>
